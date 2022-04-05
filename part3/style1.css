@@ -1,7 +1,7 @@
 body{
     margin: 0;
 }
-.blue-rectangle{
+.blue_rectangle{
     height: 800px;
     background:cadetblue;
     display: flex;
