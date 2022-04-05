@@ -1,0 +1,45 @@
+.father
+{
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box1 {
+    width: 250px;
+    height: 250px;
+    margin: 15px;
+    border: 1px solid silver;
+    border-right: 2px solid silver;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.txt1
+{
+    text-align: center;
+}
+
+.fa-solid {
+    text-align: center;
+    font-size: 20px;
+    display: block;
+    color: gold;
+    margin-top: 10px;
+    box-sizing: border-box;
+
+}
+.txt2
+{
+    text-align: center;
+}
+.txt3
+{
+    margin-top: 10px;
+    text-align: center;
+    border:  solid #14b887;
+    background: #14b887;
+
+}
+
